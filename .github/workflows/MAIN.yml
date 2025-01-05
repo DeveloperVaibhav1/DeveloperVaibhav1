@@ -56,10 +56,12 @@ steps:
   - uses: actions/checkout@v2
 
 # Generates the snake  
-  - uses: Platane/snk@master
-    id: snake-gif
-    with:
-      github_user_name: DeveloperVaibhav1
+- uses: Platane/snk/svg-only@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/github-snake.svg
+      
       # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
       gif_out_path: dist/github-contribution-grid-snake.gif
       svg_out_path: dist/github-contribution-grid-snake.svg
@@ -80,6 +82,11 @@ steps:
       # the output branch we mentioned above
       target_branch: output
       build_dir: dist
+
+
+
+
+
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
