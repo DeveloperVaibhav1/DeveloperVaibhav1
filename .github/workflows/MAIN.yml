@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Explicitly using Ubuntu 22.04 to avoid future issues
 
     steps:
       # Step 1: Checkout repository
@@ -16,8 +16,7 @@ jobs:
 
       # Step 2: Generate the Snake contribution graph
       - name: Generate Snake Contribution Graph
-        uses: Platane/snk@master
-        id: snake-gif
+        uses: Platane/snk@v3  # Use the latest stable version instead of "master"
         with:
           github_user_name: developervaibhav1
           gif_out_path: dist/github-contribution-grid-snake.gif
@@ -32,9 +31,9 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output  # Use the correct branch
+          branch: output  # Ensure your branch name is correct
 
-      # Step 5: Deploy Snake Graph to GitHub Pages
+      # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
