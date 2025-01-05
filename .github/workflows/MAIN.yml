@@ -5,16 +5,19 @@ on:
     - cron: "0 */6 * * *"  # Runs every 6 hours
   workflow_dispatch:
 
+permissions:
+  contents: write  # ✅ Allows GitHub Actions to push changes
+
 jobs:
   build:
-    runs-on: ubuntu-22.04  # Explicitly using Ubuntu 22.04 to avoid future issues
+    runs-on: ubuntu-22.04  # Use Ubuntu 22.04 for stability
 
     steps:
       # Step 1: Checkout repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the Snake contribution graph (without gif_out_path & svg_out_path)
+      # Step 2: Generate the Snake contribution graph
       - name: Generate Snake Contribution Graph
         uses: Platane/snk@v3
         with:
@@ -29,7 +32,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output  # Ensure your branch name is correct
+          branch: output  # ✅ Ensure this branch exists
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
