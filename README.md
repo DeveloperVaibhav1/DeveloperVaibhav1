@@ -1,73 +1,65 @@
-<h1 align="center" style="font-size: 40px;">Hi there, I'm Vaibhav Sarkar 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<p align="center">
-  <strong style="font-size: 24px;">Full-Stack Web Developer | MERN & DevOps Enthusiast 💻</strong>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Vaibhav+Sarkar+!;" />
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeveloperVaibhav1&label=Profile%20views&color=blue"  />
-</p>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
-</p>
+<br/>
 
----
+<div align="center">
+ 
+🔭 I’m currently working on **a Trading Website**
+ 
+🌱 I’m currently learning **Docker, Supabase, AWS**
 
-<h2 align="center" style="font-size: 30px;">🚀 About Me</h2>
-<p align="left" style="margin-left: 100px; font-size: 18px;">
-  - 🔭 I’m currently working on **scalable web applications**. <br>
-  - 🌱 I’m learning **advanced DevOps techniques**. <br>
-  - 👯 I’m looking to collaborate on **open-source projects and exciting startups**. <br>
-  - 💬 Ask me about **MERN stack, DevOps, and scalable architectures**. <br>
-  - 📫 How to reach me: **sarkarvaibhav20@gmail.com** <br>
-  - ⚡ Fun fact: **I love problem-solving and hackathons! 🚀** <br>
-  - 🎯 I am passionate about optimizing performance and making applications more efficient. <br>
-  - 📜 I enjoy writing technical blogs and sharing my knowledge with the developer community. <br>
-  - 🌍 I love exploring new technologies and staying up-to-date with industry trends. <br>
-</p>
-
----
-
-<h2 align="center" style="font-size: 30px;">🛠️ Languages and Tools</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100" height="100"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="100"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="100"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" width="100" height="100" style="margin-left: 10px;"/>
-</p>
-
----
-
-<h2 align="center" style="font-size: 30px;">📊 GitHub Stats</h2>
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperVaibhav1&show_icons=true&count_private=true&include_all_commits=true&theme=dark&custom_title=Vaibhav%20Sarkar%20GitHub%20Stats&hide=prs&hide_title=true&hide_rank=true&line_height=25&border_radius=10" width="400" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperVaibhav1&layout=compact&theme=dark&hide_title=true&line_height=25&border_radius=10" width="400" height="250"/>
-</p>
-
----
-
-<h2 align="center" style="font-size: 30px;">🔥 GitHub Streak</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperVaibhav1&theme=dark" width="400" height="250"/>
-</p>
-
----
-
-<h2 align="center" style="font-size: 30px;">📫 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/vaibhav-sarkar-87181027b">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+💬 Ask me about **Node.js, React, Firebase... or anything**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:sarkarvaibhav20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://github.com/DeveloperVaibhav1">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+ <a href="https://linkedin.com/in/vaibhav-sarkar-87181027b" target="_blank">Vaibhav Sarkar</a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</p>
+</div>
 
----
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-<h2 align="center" style="font-size: 30px;">🌟 Featured Projects</h2>
-<p>- 🧩 Puzzle Game - A fun interactive puzzle game using HTML, CSS, and JavaScript.</p>
-<p>- 🎥 Video Carousel - A dynamic video carousel built with HTML, CSS, JavaScript, and jQuery.</p>
-<p>- 📜 TOML11 - A fork of TOML for Modern C++.</p>
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡Github Stats ⚡</h2>
+<br>
+<div align=center >
+  <img width=390 padding = 10px src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperVaibhav1&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br>
+<img width=390 padding = 10px src="https://github-readme-stats.vercel.app/api?username=DeveloperVaibhav1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/>
+<img width=390 padding= 10px align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperVaibhav1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+</div>
+<br><br>
+</div>
+
+<hr/>
+
+<div align = "center">⚡ Fun fact - Game of Thrones Night's Watch cloaks are made from Ikea rugs </div>
