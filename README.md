@@ -68,6 +68,6 @@
 ---
 
 <h2 align="center" style="font-size: 30px;">🌟 Featured Projects</h2>
-- 🧩 **Puzzle Game** - A fun interactive puzzle game using HTML, CSS, and JavaScript.
-- 🎥 **Video Carousel** - A dynamic video carousel built with HTML, CSS, JavaScript, and jQuery.
-- 📜 **TOML11** - A fork of TOML for Modern C++.
+<p>- 🧩 Puzzle Game - A fun interactive puzzle game using HTML, CSS, and JavaScript.</p>
+<p>- 🎥 Video Carousel - A dynamic video carousel built with HTML, CSS, JavaScript, and jQuery.</p>
+<p>- 📜 TOML11 - A fork of TOML for Modern C++.</p>
