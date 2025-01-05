@@ -41,7 +41,7 @@
 ---
 
 <h2 align="center" style="font-size: 30px;">📊 GitHub Stats</h2>
-<p align="center">
+<p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperVaibhav1&show_icons=true&count_private=true&include_all_commits=true&theme=dark&custom_title=Vaibhav%20Sarkar%20GitHub%20Stats&hide=prs&hide_title=true&hide_rank=true&line_height=25&border_radius=10" width="400" height="250"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperVaibhav1&layout=compact&theme=dark&hide_title=true&line_height=25&border_radius=10" width="400" height="250"/>
 </p>
