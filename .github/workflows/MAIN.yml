@@ -14,13 +14,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the Snake contribution graph
+      # Step 2: Generate the Snake contribution graph (without gif_out_path & svg_out_path)
       - name: Generate Snake Contribution Graph
-        uses: Platane/snk@v3  # Use the latest stable version instead of "master"
+        uses: Platane/snk@v3
         with:
           github_user_name: developervaibhav1
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Step 3: Show git status for debugging
       - name: Show Git Status
