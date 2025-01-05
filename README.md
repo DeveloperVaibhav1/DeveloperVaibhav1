@@ -17,7 +17,7 @@ About Me :
 
 ---
 
-🛠️ Languages and Tools:
+🛠️ Languages and Tools :
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -32,23 +32,23 @@ About Me :
 
 ---
 
-🔥 GitHub Streak:
+🔥 GitHub Streak :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeveloperVaibhav1&theme=dark)
 
 ---
 
-📫 Connect with Me:
+📫 Connect with Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-sarkar-87181027b)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveloperVaibhav1)
 
 ---
 
-🌟 Featured Projects:
+🌟 Featured Projects :
 - 🧩 **[Puzzle Game](https://github.com/DeveloperVaibhav1/puzzle_game)** - A fun interactive puzzle game using HTML, CSS, and JavaScript.
 - 🎥 **[Video Carousel](https://github.com/DeveloperVaibhav1/Video_Carousel_1)** - A dynamic video carousel built with HTML, CSS, JavaScript, and jQuery.
 - 📜 **[TOML11](https://github.com/DeveloperVaibhav1/toml11)** - A fork of TOML for Modern C++.
 
 ---
 
-🎉 Fun GIF:
+🎉 Fun GIF :
 ![GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
