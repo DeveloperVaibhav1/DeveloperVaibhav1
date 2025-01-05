@@ -9,7 +9,7 @@ About Me :
 - 🌱 I’m learning **advanced DevOps techniques**.
 - 👯 I’m looking to collaborate on **open-source projects and exciting startups**.
 - 💬 Ask me about **MERN stack, DevOps, and scalable architectures**.
-- 📫 How to reach me: **vaibhav.sarkar@example.com**
+- 📫 How to reach me: **sarkarvaibhav20@gmail.com**
 - ⚡ Fun fact: **I love problem-solving and hackathons! 🚀**
 - 🎯 I am passionate about optimizing performance and making applications more efficient.
 - 📜 I enjoy writing technical blogs and sharing my knowledge with the developer community.
