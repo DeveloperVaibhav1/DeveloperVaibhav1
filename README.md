@@ -1,8 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Vaibhav+Sarkar" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋🏻;+I'm+Vaibhav+Sarkar" />
 </h1>
+
+<div align="center">
+    <img src="https://iili.io/2444zdB.jpg" alt="Coding Image" width="400" />
+</div>
 
 <h3 align="center">Full-Stack Web Developer | MERN & DevOps Enthusiast 💻</h3>
 
@@ -52,10 +56,11 @@
 <br>
 <div align=center >
     <br>
-  <img width="50%" max-width="350"  src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperVaibhav1&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br><br>
-<img width="50%" max-width="350"   src="https://github-readme-stats.vercel.app/api?username=DeveloperVaibhav1&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="350"  src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperVaibhav1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<br><br>
+<img width="350"   src="https://github-readme-stats.vercel.app/api?username=DeveloperVaibhav1&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/><br>
-<img width="50%" max-width="350"   align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkirat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width="350"   align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkirat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 <br><br>
