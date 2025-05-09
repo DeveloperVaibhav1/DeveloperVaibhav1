@@ -60,12 +60,10 @@
 <br><br>
 <img width="350"   src="https://github-readme-stats.vercel.app/api?username=DeveloperVaibhav1&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/><br>
-<img width="350"   align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkirat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width="350"   align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperVaibhav1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 <br><br>
 </div>
 
 <hr/>
-
-<div align = "center">⚡ Fun fact - I can write code so fast , it looks like my keyboard is on fire ! 🔥 </div>
