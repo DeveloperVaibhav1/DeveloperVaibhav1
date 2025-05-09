@@ -13,11 +13,6 @@
 <br/>
 
 <div align="center">
- 
-🔭 I’m currently working on **a Trading Website**
- 
-🌱 I’m currently learning **Docker, Supabase, AWS**
-
 💬 Ask me about **Node.js, React, Firebase... or anything**
  </div>
  
