@@ -48,7 +48,6 @@
 <hr/>
 
 <h2 align="center">⚡Github Stats ⚡</h2>
-<br>
 
 <div align="center">
 
