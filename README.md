@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://iili.io/3vdmRx1.gif" alt="Coding Image" width="400" />
+    <img src="https://iili.io/3vdmRx1.gif" alt="Coding Image" width="500" />
 </div>
 
 <h3 align="center">Full-Stack Web Developer | MERN & DevOps Enthusiast 💻</h3>
