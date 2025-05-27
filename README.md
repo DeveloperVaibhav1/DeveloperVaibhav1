@@ -49,15 +49,30 @@
 
 <h2 align="center">⚡Github Stats ⚡</h2>
 <br>
-<div align=center >
-    <br>
-  <img width="350"  src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperVaibhav1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<br><br>
-<img width="350"   src="https://github-readme-stats.vercel.app/api?username=DeveloperVaibhav1&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br/><br>
-<img width="350"   align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperVaibhav1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DeveloperVaibhav1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
+    alt="DeveloperVaibhav1's Stats" 
+    width="500" height="250" />
+  <br><br>
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperVaibhav1&theme=tokyonight&hide_border=true" 
+    alt="DeveloperVaibhav1's Streak" 
+    width="500" height="250" />
+  <br><br>
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperVaibhav1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
+    alt="DeveloperVaibhav1's Top Languages" 
+    width="500" height="250" />
 
 </div>
+
+
+
 <br><br>
 </div>
 
