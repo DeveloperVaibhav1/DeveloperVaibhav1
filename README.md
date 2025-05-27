@@ -55,13 +55,13 @@
     src="https://github-readme-stats.vercel.app/api?username=DeveloperVaibhav1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
     alt="DeveloperVaibhav1's Stats" 
     width="500" height="250" />
-  <br>
+  
   
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperVaibhav1&theme=tokyonight&hide_border=true" 
     alt="DeveloperVaibhav1's Streak" 
     width="500" height="250" />
-  <br>
+ 
   
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperVaibhav1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
