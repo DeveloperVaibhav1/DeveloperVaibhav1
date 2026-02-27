@@ -56,14 +56,14 @@
     src="https://github-readme-stats-zeta-flax-72.vercel.app/api?username=DeveloperVaibhav1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
     width="90%" />
 
-  <br/><br/>
+  <br/>
 
   <!-- Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com?user=DeveloperVaibhav1&theme=tokyonight&hide_border=true" 
     width="90%" />
 
-  <br/><br/>
+  <br/>
 
   <!-- Top Languages -->
   <img 
