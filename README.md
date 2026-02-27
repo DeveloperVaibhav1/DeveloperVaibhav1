@@ -47,27 +47,30 @@
 
 <hr/>
 
-<h2 align="center">⚡Github Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
 
+  <!-- Main Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=DeveloperVaibhav1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
-    alt="DeveloperVaibhav1's Stats" 
-    width="500" />
+    src="https://github-readme-stats-zeta-flax-72.vercel.app/api?username=DeveloperVaibhav1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
+    width="90%" />
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperVaibhav1&theme=tokyonight&hide_border=true" 
-    alt="DeveloperVaibhav1's Streak" 
-    width="500" />
+  <br/><br/>
 
+  <!-- Streak Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperVaibhav1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
-    alt="DeveloperVaibhav1's Top Languages" 
-    width="500" />
+    src="https://streak-stats.demolab.com?user=DeveloperVaibhav1&theme=tokyonight&hide_border=true" 
+    width="90%" />
+
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-zeta-flax-72.vercel.app/api/top-langs/?username=DeveloperVaibhav1&theme=tokyonight&hide_border=true&layout=compact" 
+    width="90%" />
 
 </div>
-
 
 
 
