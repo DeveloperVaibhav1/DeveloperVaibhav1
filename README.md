@@ -48,30 +48,17 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-zeta-flax-72.vercel.app/api?username=DeveloperVaibhav1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="480"/>
+</p>
 
-  <!-- Main Stats -->
-  <img 
-    src="https://github-readme-stats-zeta-flax-72.vercel.app/api?username=DeveloperVaibhav1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
-    width="90%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DeveloperVaibhav1&theme=tokyonight&hide_border=true" width="480"/>
+</p>
 
-  <br/>
-
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=DeveloperVaibhav1&theme=tokyonight&hide_border=true" 
-    width="90%" />
-
-  <br/>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats-zeta-flax-72.vercel.app/api/top-langs/?username=DeveloperVaibhav1&theme=tokyonight&hide_border=true&layout=compact" 
-    width="90%" />
-
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-stats-zeta-flax-72.vercel.app/api/top-langs/?username=DeveloperVaibhav1&theme=tokyonight&hide_border=true&layout=compact" width="480"/>
+</p>
 
 <br><br>
 </div>
