@@ -67,5 +67,4 @@
   <img src="https://github-readme-stats-zeta-flax-72.vercel.app/api/top-langs/?username=DeveloperVaibhav1&layout=compact&theme=tokyonight&hide_border=true" width="480"/>
 </p>
 
-<h2 align="center"> Made with 💖</h2>
 <hr/>
