@@ -36,14 +36,15 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DeveloperVaibhav1/DeveloperVaibhav1/output/github-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<h2 align="center">🐍 My Contributions 🐍</h2>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/DeveloperVaibhav1/DeveloperVaibhav1/output/pacman-contribution-graph-dark.svg" width="100%" style="max-width:900px;">
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/DeveloperVaibhav1/DeveloperVaibhav1/output/github-snake-dark.svg" width="100%" style="max-width:900px;">
+</p>
 <hr/>
 <!-- activity update -->
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
