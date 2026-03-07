@@ -2,44 +2,33 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
-
-  workflow_dispatch:  # Allows manual execution from Actions tab
+    - cron: "0 */6 * * *"
+  workflow_dispatch:        
 
 permissions:
-  contents: write  # Ensures GitHub Actions has write permissions
+  contents: write
 
 jobs:
-  build:
-    runs-on: ubuntu-latest  # Specifies the runner environment
+  generate:
+    runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repository
+      # Checkout repository
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      # Step 2: Generate the Snake contribution graph
-      - name: Generate Snake Contribution Graph
-        uses: Platane/snk/svg-only@v3
+      # Generate the snake animation
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg  # ✅ Fixed incorrect YAML formatting
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      # Step 3: Show git status for debugging
-      - name: Show Git Status
-        run: git status
-
-      # Step 4: Push the changes
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      # Step 5: Deploy to GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Push snake files to output branch
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
