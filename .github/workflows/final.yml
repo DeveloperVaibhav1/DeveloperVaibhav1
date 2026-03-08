@@ -14,30 +14,32 @@ jobs:
 
     steps:
       # 1️⃣ Checkout repository
-      - name: Checkout Repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ Prepare dist folder
+      # 2️⃣ Create dist folder
       - name: Prepare dist folder
         run: |
           rm -rf dist
           mkdir dist
 
-      # 3️⃣ Generate Snake (dark theme)
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      # 3️⃣ Generate Snake (Dark Theme)
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
 
-      # 4️⃣ Generate Pacman
-      - name: Generate Pacman
+      # 4️⃣ Generate Pacman (Dark Theme)
+      - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          theme: dark
+          output: dist/pacman-contribution-graph-dark.svg
 
-      # 5️⃣ Deploy animations
+      # 5️⃣ Deploy generated files
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
