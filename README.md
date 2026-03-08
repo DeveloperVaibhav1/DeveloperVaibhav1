@@ -39,12 +39,21 @@
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/DeveloperVaibhav1/DeveloperVaibhav1/output/pacman-contribution-graph-dark.svg" width="100%" style="max-width:900px;">
+  <img
+    src="https://raw.githubusercontent.com/DeveloperVaibhav1/DeveloperVaibhav1/output/pacman-contribution-graph-dark.svg"
+    width="100%"
+    alt="Pacman Contribution Graph"
+  />
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/DeveloperVaibhav1/DeveloperVaibhav1/output/github-snake-dark.svg" width="100%" style="max-width:900px;">
+  <img
+    src="https://raw.githubusercontent.com/DeveloperVaibhav1/DeveloperVaibhav1/output/github-snake-dark.svg"
+    width="100%"
+    alt="Snake Animation"
+  />
 </p>
+
 <hr/>
 <!-- activity update -->
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
