@@ -58,8 +58,7 @@
 <!-- activity update -->
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeveloperVaibhav1&theme=tokyonight" width="480"/>
-</p>
+  <img width="480" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeveloperVaibhav1&theme=tokyonight">
 <!-- Main Stats -->
 <p align="center">
   <img src="https://github-readme-stats-zeta-flax-72.vercel.app/api?username=DeveloperVaibhav1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="480"/>
