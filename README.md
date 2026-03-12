@@ -58,7 +58,7 @@
 <!-- activity update -->
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeveloperVaibhav1&theme=tokyonight" width="480"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeveloperVaibhav1&theme=tokyonight" width="480.5"/>
 </p>
 <!-- Main Stats -->
 <p align="center">
