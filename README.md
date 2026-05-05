@@ -63,10 +63,9 @@
 
 <!-- Main Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-zeta-flax-72.vercel.app/api?username=DeveloperVaibhav1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="480"/>
+  <img src="https://github-readme-stats-zeta-flax-72.vercel.app/api?username=DeveloperVaibhav1&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=false" width="480"/>
 </p>
 
-<!-- Streak -->
 <!-- Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DeveloperVaibhav1&theme=tokyonight&hide_border=true" width="480"/>
