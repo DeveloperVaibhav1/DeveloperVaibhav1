@@ -46,14 +46,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/DeveloperVaibhav1/DeveloperVaibhav1/output/github-snake-dark.svg"
-    width="100%"
-    alt="Snake Animation"
-  />
-</p>
-
 <hr/>
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
 
